@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }body {
   font-family: 'open sans', sans-serif;
-  background: linear-gradient(120deg, blue, black, blue);
+  background: linear-gradient(120deg, red, red, black);
 }a {
   color: white;
 }a:visited {
@@ -128,7 +128,7 @@ a:hover {
   margin-top: 30px;
   cursor: pointer;
   color: #FFF;
-  background-color: yellow;
+  background-color: red;
 }.flat-page .content .image img {
   max-width: 120%;
   margin-top: 50px;
