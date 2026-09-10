@@ -7,11 +7,11 @@
   color: white;
 }a:visited {
   
-  color: red;
+  color: blue;
       }
       
 a:hover {
-  color: red;
+  color: black;
       }
 	  ul {
   list-style: none;
@@ -128,7 +128,7 @@ a:hover {
   margin-top: 30px;
   cursor: pointer;
   color: #FFF;
-  background-color: red;
+  background-color: black;
 }.flat-page .content .image img {
   max-width: 120%;
   margin-top: 50px;
