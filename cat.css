@@ -30,7 +30,7 @@ html, body {
 
   font-family: 'Montserrat', sans-serif;
 
-  font-weight: 400;
+  font-weight: 900;
 
   font-size: 16px;
 
@@ -364,7 +364,7 @@ width: 95%;
 }
 .reveal {
 
-  height: 700px !important;
+  height: 900px !important;
 
 }
 #nav-container {
